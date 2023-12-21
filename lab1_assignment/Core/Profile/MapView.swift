@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         // Set your API key
-        MapsDisplayService.apiKey = "pWI7Dr5DVGpMawBMYfHLy30i9lcG16m0"
+        MapsDisplayService.apiKey = "<APIKEYHERE>"
 
         // Create a MapView instance
         let mapView = MapView()
