@@ -1,2 +1,2 @@
 # spotup
-ios app development 
+ios mobile programming dev app
